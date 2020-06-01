@@ -1,0 +1,85 @@
+Welcome to guess the number game! You will have 1% chance to win in every trial and you can try 20 times. Lets Start
+
+	Guess the number from 1 to 100
+	[20] Your try: 
+	=> LOW 
+	The number was 73
+
+	[19] Your try: 
+	=> High. 
+	The number was 13
+
+	[18] Your try: 
+	=> High. 
+	The number was 25
+
+	[17] Your try: 
+	=> LOW 
+	The number was 88
+
+	[16] Your try: 
+	=> LOW 
+	The number was 81
+
+	[15] Your try: 
+	=> LOW 
+	The number was 94
+
+	[14] Your try: 
+	=> High. 
+	The number was 31
+
+	[13] Your try: 
+	=> LOW 
+	The number was 67
+
+	[12] Your try: 
+	=> High. 
+	The number was 8
+
+	[11] Your try: 
+	=> High. 
+	The number was 7
+
+	[10] Your try: 
+	=> High. 
+	The number was 88
+
+	[9] Your try: 
+	=> LOW 
+	The number was 96
+
+	[8] Your try: 
+	=> LOW 
+	The number was 28
+
+	[7] Your try: 
+	=> LOW 
+	The number was 99
+
+	[6] Your try: 
+	=> LOW 
+	The number was 37
+
+	[5] Your try: 
+	=> High. 
+	The number was 14
+
+	[4] Your try: 
+	=> LOW 
+	The number was 76
+
+	[3] Your try: 
+	=> LOW 
+	The number was 67
+
+	[2] Your try: 
+	=> LOW 
+	The number was 68
+
+	[1] Your try: 
+	=> LOW 
+	The number was 19
+
+
+You have reached maximum trial. Better luck next time
